@@ -1,0 +1,26 @@
+.navTabs,
+.heading {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.heading {
+  margin-top: 50px;
+}
+
+.navTabs li {
+  margin: 0 10px;
+}
+
+.navTabs a {
+  text-decoration: none;
+  color: #007bff;
+  font-weight: bold;
+}
+
+.navTabs a:hover {
+  color: #0056b3;
+}

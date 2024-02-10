@@ -1,0 +1,38 @@
+.versionListContainer {
+  text-align: left;
+  margin: 20px;
+  padding: 10px;
+}
+
+.versionList {
+  list-style: none;
+  padding: 0;
+}
+
+.versionItem {
+  background-color: #f9f9f9;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.versionDetails {
+  margin-top: 10px;
+}
+
+.variantDetails {
+  background-color: #e9ecef;
+  padding: 5px;
+  margin-top: 5px;
+  border-radius: 4px;
+}
+
+.detailsSummary {
+  cursor: pointer;
+  font-weight: bold;
+  padding: 5px;
+  background-color: #ddd;
+  border-radius: 4px;
+  margin-bottom: 5px;
+}
